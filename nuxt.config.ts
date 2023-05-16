@@ -5,7 +5,7 @@ export default defineNuxtConfig({
       meta: [
         {
           name: 'facebook-domain-verification',
-          content: 'a78f89ut8ltchpdcfnl7kl8n048zbl'
+          content: '9fith3y73z2qbbmxe4asn18xvxghno'
         }
       ]
     },
